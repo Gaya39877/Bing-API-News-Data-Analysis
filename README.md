@@ -5,7 +5,7 @@ This project ingests the latest news articles using the **Bing News Search API**
 
 ## 📊 Architecture Overview
 
-![Bing News Data Pipeline](./BingAPI_Project_Architecture.png)
+![Bing News Data Pipeline](https://github.com/Gaya39877/Bing-API-News-Data-Analysis/blob/main/Assets/BingAPI_Project_Architecture.png?raw=true)
 
 ### Pipeline Layers:
 
